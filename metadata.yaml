@@ -1,0 +1,31 @@
+_repo: History-of-the-Ottawa-and-Chippewa-Indians-of-Michigan-A-Grammar-of-Their-Language-and-Persona__6988
+creator:
+  author:
+    agent_name: Blackbird, Andrew J.
+    aliases:
+    - Chief Mack-e-te-be-nessy
+    - Blackbird, A. J. (Andrew J.)
+    birthdate: 1810
+    gutenberg_agent_id: '2289'
+    url: http://www.gutenberg.org/2009/agents/2289
+description: ''
+gutenberg_bookshelf: Native America
+gutenberg_issued: '2004-11-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '6988'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Ojibwa Indians -- Michigan'
+- !lcsh 'Ottawa Indians -- Michigan'
+- !lcsh 'Indians of North America -- Michigan'
+- !lcsh 'Blackbird, Andrew J., b. 1810'
+- !lcsh 'Ojibwa language -- Grammar'
+- !lcsh 'Ottawa language -- Grammar'
+- !lcc 'E011'
+title: "History of the Ottawa and Chippewa Indians of Michigan\r\nA Grammar of Their\
+  \ Language, and Personal and Family History of the Author"
+url: http://www.gutenberg.org/ebooks/6988
