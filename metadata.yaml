@@ -1,4 +1,8 @@
 _repo: History-of-the-Ottawa-and-Chippewa-Indians-of-Michigan-A-Grammar-of-Their-Language-and-Persona__6988
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Blackbird, Andrew J.
@@ -9,6 +13,8 @@ creator:
     gutenberg_agent_id: '2289'
     url: http://www.gutenberg.org/2009/agents/2289
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/6988#History-of-the-Ottawa-and-Chippewa-Indians-of-Michigan-A-Grammar-of-Their-Language-and-Persona_
 gutenberg_bookshelf: Native America
 gutenberg_issued: '2004-11-01'
 gutenberg_type: Text
